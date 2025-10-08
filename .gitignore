@@ -1,0 +1,43 @@
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Output / uploads / models
+outputs/
+uploads/
+
+
+# Virtual environment
+.env/
+venv/
+
+# Python Byte-compiled files
+*.pyc
+
+# Backup files
+*.bak
+*.swp
+
+# Others
+*.sqlite3
